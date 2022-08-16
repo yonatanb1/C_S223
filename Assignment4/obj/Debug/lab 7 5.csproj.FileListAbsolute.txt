@@ -1,0 +1,26 @@
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\Csharp-Assignment-3\lab 7 5\bin\Debug\lab 7 5.exe.config
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\Csharp-Assignment-3\lab 7 5\bin\Debug\lab 7 5.exe
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\Csharp-Assignment-3\lab 7 5\bin\Debug\lab 7 5.pdb
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\Csharp-Assignment-3\lab 7 5\obj\Debug\lab 7 5.csproj.AssemblyReference.cache
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\Csharp-Assignment-3\lab 7 5\obj\Debug\lab 7 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\Csharp-Assignment-3\lab 7 5\obj\Debug\lab_7_5.Login.resources
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\Csharp-Assignment-3\lab 7 5\obj\Debug\lab_7_5.Properties.Resources.resources
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\Csharp-Assignment-3\lab 7 5\obj\Debug\lab 7 5.csproj.GenerateResource.cache
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\Csharp-Assignment-3\lab 7 5\obj\Debug\lab 7 5.csproj.CoreCompileInputs.cache
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\Csharp-Assignment-3\lab 7 5\obj\Debug\lab 7 5.exe
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\Csharp-Assignment-3\lab 7 5\obj\Debug\lab 7 5.pdb
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\Csharp-Assignment-3\lab 7 5\obj\Debug\lab_7_5.Form1.resources
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\Csharp-Assignment-3\lab 7 5\obj\Debug\lab_7_5.Product.resources
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\lab 7 5\bin\Debug\lab 7 5.exe.config
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\lab 7 5\bin\Debug\lab 7 5.exe
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\lab 7 5\bin\Debug\lab 7 5.pdb
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\lab 7 5\obj\Debug\lab 7 5.csproj.AssemblyReference.cache
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\lab 7 5\obj\Debug\lab 7 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\lab 7 5\obj\Debug\lab_7_5.Form1.resources
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\lab 7 5\obj\Debug\lab_7_5.Login.resources
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\lab 7 5\obj\Debug\lab_7_5.Product.resources
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\lab 7 5\obj\Debug\lab_7_5.Properties.Resources.resources
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\lab 7 5\obj\Debug\lab 7 5.csproj.GenerateResource.cache
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\lab 7 5\obj\Debug\lab 7 5.csproj.CoreCompileInputs.cache
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\lab 7 5\obj\Debug\lab 7 5.exe
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\lab 7 5\obj\Debug\lab 7 5.pdb
